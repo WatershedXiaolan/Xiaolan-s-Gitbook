@@ -1,6 +1,6 @@
 def iterator(iterable, n):
     iterator = zip(range(n), iterable)
-    for i, item in iterator:
+    for _, item in iterator:
         # yield: continuously output items
         yield item
 
