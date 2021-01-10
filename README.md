@@ -1,9 +1,2 @@
-# Initial page
-
-test
-test2
-test3
-
-test4
-test5
-test6
+Use this repo as notebook. 
+Please refer to "Issue" tab for more information.
