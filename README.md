@@ -1,6 +1,6 @@
 # Initial page
 
-Hello world
+Hello world!
 
 
 
